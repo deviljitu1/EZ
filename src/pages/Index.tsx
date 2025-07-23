@@ -59,3 +59,4 @@ const Index = () => {
 };
 
 export default Index;
+// No changes needed unless your API endpoint changes for production.

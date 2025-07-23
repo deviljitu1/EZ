@@ -10,7 +10,7 @@ import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Cart from "./pages/Cart";
 import NotFound from "./pages/NotFound";
-import Profile from "../client/src/pages/Profile.jsx";
+import Profile from "./pages/Profile";
 import "@/styles/globals.css";
 import { UserProvider } from "@/components/context/UserContext";
 import Wishlist from "./pages/Wishlist";
