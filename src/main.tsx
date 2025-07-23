@@ -5,3 +5,4 @@ import './index.css'
 createRoot(document.getElementById("root")!).render(<App />);
 
 // No changes needed here if your build tool is configured correctly.
+/assets/index.js
